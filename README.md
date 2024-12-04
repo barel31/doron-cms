@@ -82,4 +82,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Sanity.io**: [Sanity.io Official Website](https://www.sanity.io/)
 
 ---
-Made with ❤️ for Doron Law
+Made with ❤️ for Doron Hadad
